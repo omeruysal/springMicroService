@@ -5,4 +5,5 @@ This one also has unit tests for controller layer.
 This project feeds SpringRestBootClient as API.
 
 Next feature :
+Projects are going to be combined in same module.
 Projects are going to be deployed on docker containers.
